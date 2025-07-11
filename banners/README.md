@@ -1,2 +1,2 @@
-# Warning
-The rights to banner images are fully owned by the authors of the original images.
+# Copyright notice
+The rights to the images used for the banners belong to the authors of the original images.  
